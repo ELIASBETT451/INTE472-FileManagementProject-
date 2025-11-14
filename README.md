@@ -3,7 +3,7 @@
 **Total Marks:** 30
 
 ## NAME
-BETT KIPTOO ELIAS -INTE/MG/3302/09/22— https://github.com/studentB
+BETT KIPTOO ELIAS -INTE/MG/3302/09/22— https://github.com/ELIASBETT451/INTE472-FileManagementProject-
 ## Project Files
 - `file_manager.py` — main script (implements tasks 1–6)
 - `students_report.py` — JSON/CSV data processing script (task 7)
@@ -30,3 +30,4 @@ This will create `report.csv` in the project folder.
 - `StudentFiles` folder and `activity_log.txt` are created automatically by `file_manager.py`.
 - The backup file is moved to `StudentFiles/Archive`.
 - Logging format: `[YYYY-MM-DDHH:MM:SS]message`
+
